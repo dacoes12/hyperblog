@@ -8,5 +8,6 @@ Blog de practica del curso de Git y Github.
 * Trucos muy locos del profesor
 * Las personalidades múltiples del docente
 * otro.
+* Incluye diversidad de ejemplos
 
 `Usuario: David Camilo Collazos`
