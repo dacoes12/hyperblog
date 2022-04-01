@@ -9,5 +9,6 @@ Blog de practica del curso de Git y Github.
 * Las personalidades múltiples del docente
 * otro.
 * Incluye diversidad de ejemplos
+* Disponible a cualquier hora del dia
 
 `Usuario: David Camilo Collazos`
